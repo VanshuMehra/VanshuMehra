@@ -33,5 +33,3 @@
 ---
 
 <img align="left" alt="VanshuMehra Github Stats" src="https://github-readme-stats.vercel.app/api?username=VanshuMehra&show_icons=true&hide_border-true" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajisrinivas" alt="balajisrinivas" /></a> </p>
