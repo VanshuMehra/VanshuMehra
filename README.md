@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning a lot of things.
 - 👯 I’m Currently pursuing B.E (CSE) and programming is my love ❤️
 - ⚡ Fun fact: I love to listen to music and travel long destinations in motorbike.
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vanshumehra/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vanshu__mehra/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.in/vanshu_mehra/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/vanshu_mehra/)
 
 <br />
-
 
 ### Languages and Tools:
 
