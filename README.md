@@ -12,8 +12,6 @@
 
 <a href="https://www.linkedin.com/in/vanshumehra">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/vanshu__mehra">
-<img src="https://img.shields.io/badge/instagram-important.svg?style=for-the-badge&logo=instagram&logoColor=purple voilet"></a>
 <a href="https://twitter.com/vanshu_mehra">
 <img src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
@@ -31,7 +29,6 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -68,4 +65,4 @@
 <br>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VanshuMehra&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=VanshuMehra&theme=xcode)]
